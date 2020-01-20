@@ -1,3 +1,9 @@
+// Travis Hescox
+// Homework 2
+// Number 2
+// Data Structures CS 3305
+// Section 4
+
 #ifndef BANK_ACCOUNT_H
 #define BANK_ACCOUNT_H
 #include <string>
